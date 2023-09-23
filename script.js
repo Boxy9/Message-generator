@@ -1,5 +1,5 @@
 // This code will create a message using a book that my kids , called "would you like". 
-// It let you select a base and a topping eg. the base would be something like "toast" and
+// It will let you select a base and a topping eg. the base would be something like "toast" and
 // the topping would be something like "ketchup" and so it would read "would you like ketchup on your toast".
 // some of the combinations were silly and made us laugh....
 const wouldYouLike = () => {
