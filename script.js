@@ -3,7 +3,7 @@
 // the topping would be something like "ketchup" and so it would read "would you like ketchup on your toast".
 // some of the combinations were silly and made us laugh....
 const wouldYouLike = () => {
-    const bases = ['toast', 'crumpet', 'waffle', 'pancake', 'bread', 'panini', 'pizza', 'cake', 'cracker'];
+    const bases = ['toast', 'crumpet', 'waffle', 'pancake', 'bread', 'panini', 'pizza', 'cake', 'cracker','steak'];
     const topping = ['mud', 'kethcup', 'peas', 'marmite', 'pesto', 'fish', 'meat', 'mustard', 'monkey'];
     const baseIdx = Math.floor(Math.random() * bases.length);
     const toppingIdx = Math.floor(Math.random() * topping.length);
